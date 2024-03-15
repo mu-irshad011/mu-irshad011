@@ -1,6 +1,6 @@
 <body>
 <div align="center">
-<span style="color:#1ecb9b">some *blue* text</span>
+<span style="color:blue">some *blue* text</span>
 </div>
 <br>
 
