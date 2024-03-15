@@ -1,11 +1,11 @@
 <body>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=30&duration=1000&pause=500&color=1ECB9B&repeat=false&random=false&width=435&lines=Muhammed+Irshad+Shaikh" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=30&duration=1000&pause=500&color=1ECB9B&repeat=false&random=false&lines=Muhammed+Irshad+Shaikh" alt="Muhammed Irshad Shaikh" /></a>
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&pause=700&color=1ECB9B&random=false&repeat=true&width=435&lines=Web+%26+App+Developer;Experienced+React+Developer;2%2B+years+of+work+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&pause=700&color=1ECB9B&random=false&repeat=true&width=435&lines=Web+%26+App+Developer;Experienced+React+Developer;2%2B+years+of+work+experience" alt="About" /></a>
 </div>
 
 <div align="center">
