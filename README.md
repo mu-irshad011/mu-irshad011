@@ -1,6 +1,6 @@
 <body>
-<h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
-<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&pause=1000&color=1ECB9B&random=false&width=435&lines=Web+%26+App+Developer;Experienced+React+Developer;2%2B+years+of+work+experience" alt="Typing SVG" /></a>
 
 <div align="center">
 <img src="./image/travel.gif" height='620' width='580'>
