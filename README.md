@@ -5,6 +5,7 @@
 <div align="center">
 <img src="./image/travel.gif" height='620' width='580'>
 </div>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
