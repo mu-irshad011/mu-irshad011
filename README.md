@@ -1,6 +1,8 @@
 <body>
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&pause=1000&color=1ECB9B&random=false&width=435&lines=Web+%26+App+Developer;Experienced+React+Developer;2%2B+years+of+work+experience" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
 <img src="./image/travel.gif" height='620' width='580'>
