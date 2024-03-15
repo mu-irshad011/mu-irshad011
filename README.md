@@ -1,9 +1,9 @@
 <body>
 
-<div align="center">
-$${\color{red}Red}$$
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=30&duration=1000&pause=500&color=1ECB9B&repeat=false&random=false&lines=Muhammed+Irshad+Shaikh" alt="Muhammed Irshad Shaikh" /></a> -->
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://github.com/mu-irshad011/mu-irshad011/assets/79860476/b61f111b-c67f-4457-b538-2fe984bf54bb" alt="Muhammed Irshad Shaikh" /></a>
+</p>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&pause=700&color=1ECB9B&random=false&repeat=true&width=510&lines=Web+%26+App+Developer;Experienced+React+Developer;2%2B+years+of+work+experience" alt="About" /></a>
