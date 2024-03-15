@@ -1,7 +1,7 @@
 <body>
 
 <div align="center">
-$${\color{red}Welcome}$$
+$${\color{red}Red}$$
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=30&duration=1000&pause=500&color=1ECB9B&repeat=false&random=false&lines=Muhammed+Irshad+Shaikh" alt="Muhammed Irshad Shaikh" /></a> -->
 </div>
 
