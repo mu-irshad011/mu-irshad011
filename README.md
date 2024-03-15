@@ -1,8 +1,8 @@
 <body>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://github.com/mu-irshad011/mu-irshad011/assets/79860476/b61f111b-c67f-4457-b538-2fe984bf54bb" alt="Muhammed Irshad Shaikh" /></a>
+  <a href="https://github.com/mu-irshad011">
+    <img src="https://github.com/mu-irshad011/mu-irshad011/assets/79860476/63702e57-a24c-450c-b32a-4a102169af77.png" alt="Muhammed Irshad" /></a>
 </p>
 
 <div align="center">
