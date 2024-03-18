@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-<img src="./image/travel.gif" height='620' width='580'>
+<img src="./image/travel.gif" height='500' width='500'>
 </div>
 <br>
 
