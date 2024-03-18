@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&pause=700&color=1ECB9B&center=true&vCenter=true&random=false&repeat=true&width=440&lines=Web+%26+App+Developer;Experienced+React+Developer;2%2B+years+of+work+experience" alt="About" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&duration=1000&pause=700&color=1ECB9B&center=true&vCenter=true&random=false&repeat=true&width=440&lines=Web+%26+App+Developer;Experienced+React+Developer;2%2B+years+of+work+experience" alt="About" /></a>
 </p>
 
 <div align="center">
