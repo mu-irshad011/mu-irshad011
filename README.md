@@ -90,7 +90,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-irshad011&layout=compact&theme=dark&hide_border=true)
 
 ![MI's github stats](https://github-readme-stats.vercel.app/api?username=mu-irshad011&show_icons=true&hide_border=true&theme=dark)
-<img src="./image/cat.gif" height="350" width="350" />
+<img src="./image/cat.gif" height="250" width="250" />
 
 <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
 <div align="center">
