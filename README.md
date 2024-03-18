@@ -87,7 +87,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-irshad011&layout=compact&theme=dark&hide_border=true)![MI's github stats](https://github-readme-stats.vercel.app/api?username=mu-irshad011&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-irshad011&layout=compact&theme=dark&hide_border=true) ![MI's github stats](https://github-readme-stats.vercel.app/api?username=mu-irshad011&show_icons=true&hide_border=true&theme=dark)
 
 <p align="center">
 <img src="./image/cat.gif" height="230" width="230" />
