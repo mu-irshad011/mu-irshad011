@@ -88,7 +88,7 @@
 ---
 
 <a href="https://github.com/mu-irshad011/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mu-irshad011&layout=compact&hide_border=true&theme=dark" /></a>
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=mu-irshad011&show_icons=true&hide_border=true&theme=dark" alt="mu-irshad011" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=mu-irshad011&show_icons=true&hide_border=true&theme=dark" alt="mu-irshad011" />
 <br/>
 
 <p align="center">
