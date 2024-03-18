@@ -5,9 +5,9 @@
     <img src="https://github.com/mu-irshad011/mu-irshad011/assets/79860476/63702e57-a24c-450c-b32a-4a102169af77.png" alt="Muhammed Irshad" /></a>
 </p>
 
-<div align="center">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=500&size=25&pause=700&color=1ECB9B&random=false&repeat=true&width=350&lines=Web+%26+App+Developer;Experienced+React+Developer;2%2B+years+of+work+experience" alt="About" /></a>
-</div>
+</p>
 
 <div align="center">
 <img src="./image/travel.gif" height='620' width='580'>
